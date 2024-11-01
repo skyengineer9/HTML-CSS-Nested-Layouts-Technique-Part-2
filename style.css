@@ -1,0 +1,40 @@
+body {
+  background-color: #0f0f0f;
+  color: white;
+}
+.video-picture > img {
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.video-picture {
+  display: inline-block;
+}
+
+.video-description {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10px;
+}
+
+.video-title {
+  width: 300px;
+  font-weight: bold;
+  margin-top: 3px;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.channel-title,
+.stat-title {
+  color: #AAAAAA;
+}
+
+.channel-title {
+  margin-bottom: 0px;
+}
+
+.stat-title {
+  margin-top: 3px;
+}
+
